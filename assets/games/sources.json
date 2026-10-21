@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "category": "MOBA",
+      "game": "王者荣耀",
+      "file": "assets/games/honor-of-kings.webp",
+      "sourceUrl": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/528/528-bigskin-1.jpg",
+      "imageUrl": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/528/528-bigskin-1.jpg",
+      "type": "王者荣耀官网素材库 / 英雄宣传图",
+      "usage": "官方英雄宣传素材，来自王者荣耀官网素材域名 game.gtimg.cn；本作品集仅作个人简历中的游戏品类展示，不声明素材所有权。"
+    },
+    {
+      "category": "卡牌策略",
+      "game": "CookieRun: Kingdom / 姜饼人王国",
+      "file": "assets/games/cookierun-kingdom.webp",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=zh",
+      "imageUrl": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=zh",
+      "type": "Google Play 官方商店截图",
+      "usage": "官方游戏画面 / Google Play 商店截图；本作品集仅作个人简历中的游戏品类展示，不声明素材所有权。"
+    },
+    {
+      "category": "FPS/TPS",
+      "game": "三角洲行动 / Delta Force",
+      "file": "/assets/games/delta-force.webp",
+      "sourceUrl": "https://store.steampowered.com/app/2507950/",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/6e6783dfed5715c4ac1166dfc12efdf70d6a05ad/ss_6e6783dfed5715c4ac1166dfc12efdf70d6a05ad.1920x1080.jpg?t=1790238079",
+      "type": "Steam 官方商店截图",
+      "usage": "官方商店/官网提供的宣传或截图素材；本作品集仅作个人简历展示与来源说明，不声明素材所有权。"
+    },
+    {
+      "category": "沙盒与经营",
+      "game": "星露谷物语 / Stardew Valley",
+      "file": "/assets/games/stardew-valley.webp",
+      "sourceUrl": "https://store.steampowered.com/app/413150/",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg?t=1786554168",
+      "type": "Steam 官方商店截图",
+      "usage": "官方商店/官网提供的宣传或截图素材；本作品集仅作个人简历展示与来源说明，不声明素材所有权。"
+    },
+    {
+      "category": "MMO与社交探索",
+      "game": "光遇 / Sky: Children of the Light",
+      "file": "/assets/games/sky-children-of-the-light.webp",
+      "sourceUrl": "https://store.steampowered.com/app/2325290/",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2325290/277dc717f75415c623cdff485ef0ce30916523da/ss_277dc717f75415c623cdff485ef0ce30916523da.1920x1080.jpg?t=1791580167",
+      "type": "Steam 官方商店截图",
+      "usage": "官方商店/官网提供的宣传或截图素材；本作品集仅作个人简历展示与来源说明，不声明素材所有权。"
+    },
+    {
+      "category": "RPG与叙事",
+      "game": "火山的女儿 / Volcano Princess",
+      "file": "/assets/games/volcano-princess.webp",
+      "sourceUrl": "https://store.steampowered.com/app/1669980/",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_bc0ae18ad26e05d3a1c92b4143815c2492e970a0.1920x1080.jpg?t=1746063344",
+      "type": "Steam 官方商店截图",
+      "usage": "官方商店/官网提供的宣传或截图素材；本作品集仅作个人简历展示与来源说明，不声明素材所有权。"
+    },
+    {
+      "category": "休闲与派对",
+      "game": "胡闹厨房2 / Overcooked! 2",
+      "file": "/assets/games/overcooked-2.webp",
+      "sourceUrl": "https://store.steampowered.com/app/728880/",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/ss_7f290dccbdc3c0eb9ded951717bceba5d7455764.1920x1080.jpg?t=1789548883",
+      "type": "Steam 官方商店截图",
+      "usage": "官方商店/官网提供的宣传或截图素材；本作品集仅作个人简历展示与来源说明，不声明素材所有权。"
+    }
+  ],
+  "failures": []
+}
